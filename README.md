@@ -76,4 +76,11 @@ def predict():
 
 ### Result for the prediction
 
-![image](https://user-images.githubusercontent.com/57294017/152632650-bc9f5520-23d1-4b6a-8912-0e2d7c930562.png)
+For the prepaid condition
+![image](https://user-images.githubusercontent.com/57294017/152645973-e8b93c84-473b-4f70-a551-d0b9072e196b.png)
+![image](https://user-images.githubusercontent.com/57294017/152646048-98075aac-3961-4d0f-a997-ef2075f79cf7.png)
+
+For the non-prepaid condition
+![image](https://user-images.githubusercontent.com/57294017/152646364-cb1398bb-6087-4ace-8a4a-51b8c92541a3.png)
+
+
